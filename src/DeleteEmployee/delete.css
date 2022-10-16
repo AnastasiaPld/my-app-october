@@ -1,0 +1,34 @@
+
+.id-input-for-delete{
+    
+  width: 10%;
+  padding: 10px 20px;
+  margin: 3px 0;
+  display: inline-block;
+  border: 4px solid #ccc;
+  box-sizing: border-box;
+  margin-left:850px;
+  position: relative
+
+  }
+  .btn-delete{
+   
+    cursor: pointer;
+      border-radius: 4em;
+      color: #fff;
+      background: linear-gradient(to right, black, blue);
+      border: 0;
+      padding-left: 30px;
+      padding-right: 40px;
+      padding-bottom: 5px;
+      padding-top: 5px;
+      font-family: 'Ubuntu', sans-serif;
+      margin-left: 26%;
+      font-size: 15px;
+      box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+      position:relative; right: 480px;
+}
+.title{
+    text-align: center;
+}
+ 

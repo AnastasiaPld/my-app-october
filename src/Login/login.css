@@ -1,0 +1,56 @@
+.sign {
+    padding-top: 40px;
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    text-align: center;
+
+}
+.input-user{
+    
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-left:800px;
+
+}
+
+.input-password{
+    
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-left:800px;
+    
+
+}
+
+body {
+    background-color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.login-btn{     
+          border-radius: 5em;
+          color: white;
+          background: linear-gradient(to right, black, blue);
+          border: 0;
+          padding-left: 40px;
+          padding-right: 40px;
+          padding-bottom: 10px;
+          padding-top: 10px;
+          font-family: 'Ubuntu', sans-serif;
+          margin-left: 35%;
+          font-size: 16px;
+          box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+          position:fixed; left:230px;
+          cursor:pointer;
+         
+}
